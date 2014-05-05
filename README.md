@@ -6,7 +6,7 @@ What is this?
 
 Extracts [Jeopardy!] clues from the [J! Archive] website and dumps them into a SQLite database for use elsewhere (no particular application is intended).
 
-Python 2.7.5 (or Python 3.4 with download_three.py) and SQLite 3.7.12 are tested. Depends on BeautifulSoup 4 and the lxml parser.
+Python 2.7.5 (or Python 3.4 with download_three.py and parser_three.py) and SQLite 3.7.12 are tested. Depends on BeautifulSoup 4 and the lxml parser.
 
 
 Quick start

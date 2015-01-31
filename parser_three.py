@@ -134,7 +134,7 @@ if __name__ == "__main__":
             dest = "dir",
             metavar = "<folder>",
             help = "the directory containing the game files",
-            default = "j-archive-back"
+            default = "j-archive"
       )
       parser.add_argument(
             "-n", "--number-of-files",
@@ -148,7 +148,7 @@ if __name__ == "__main__":
             dest = "database",
             metavar = "<filename>",
             help = "the filename for the SQLite database",
-            default = "clues-test.db"
+            default = "clues.db"
       )
       parser.add_argument(
             "--stdout",
